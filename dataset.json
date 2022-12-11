@@ -1,0 +1,33 @@
+{
+  "name": "test",
+  "description": "",
+  "examples": [
+    {
+      "string": "1234",
+      "match": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ]
+    },
+	{
+      "string": "649857674",
+      "match": [
+        {
+          "start": 0,
+          "end": 8
+        }
+      ]
+    },
+	{
+      "string": "64",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ]
+    }
+  ]
+}
