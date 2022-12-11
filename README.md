@@ -1,6 +1,6 @@
 # Machine Learning Based Web Application Firelwall
 
-## Can potentially protect against all injection attacks
+## Can protect against all injection attacks
 ### XSS
 ### SQLi
 ### Code/Command
