@@ -1,0 +1,572 @@
+{
+  "datasetName": "hi",
+  "methodDescription": "Console config",
+  "comment": "interesting evolution",
+  "experimentDate": "Dec 11, 2022 2:21:36 PM",
+  "bestSolution": {
+    "solutionJS": "\\d",
+    "trainingPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 0.09375,
+      "character accuracy": 1.0,
+      "match f-measure": 0.15,
+      "match recall": 0.375
+    },
+    "validationPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 0.23529411764705882,
+      "character accuracy": 1.0,
+      "match f-measure": 0.3333333333333333,
+      "match recall": 0.5714285714285714
+    },
+    "learningPerformances": {
+      "character recall": 1.0,
+      "character precision": 1.0,
+      "match precision": 0.14285714285714285,
+      "character accuracy": 1.0,
+      "match f-measure": 0.21874999999999997,
+      "match recall": 0.4666666666666667
+    },
+    "solution": "\\d",
+    "fitness": [
+      0.90625,
+      "NaN",
+      2.0
+    ]
+  },
+  "bestExtractions": [
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 4,
+        "end": 5
+      },
+      {
+        "start": 5,
+        "end": 6
+      },
+      {
+        "start": 6,
+        "end": 7
+      },
+      {
+        "start": 7,
+        "end": 8
+      },
+      {
+        "start": 8,
+        "end": 9
+      },
+      {
+        "start": 9,
+        "end": 10
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 4,
+        "end": 5
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 4,
+        "end": 5
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 4,
+        "end": 5
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 4,
+        "end": 5
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      },
+      {
+        "start": 3,
+        "end": 4
+      }
+    ],
+    [
+      {
+        "start": 0,
+        "end": 1
+      },
+      {
+        "start": 1,
+        "end": 2
+      },
+      {
+        "start": 2,
+        "end": 3
+      },
+      {
+        "start": 3,
+        "end": 4
+      },
+      {
+        "start": 4,
+        "end": 5
+      }
+    ]
+  ],
+  "bestExtractionsStrings": [
+    [
+      "1",
+      "2",
+      "3"
+    ],
+    [
+      "2",
+      "4",
+      "3",
+      "6",
+      "2",
+      "6",
+      "3",
+      "4",
+      "8",
+      "9"
+    ],
+    [
+      "1",
+      "2",
+      "3",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "2",
+      "3",
+      "1",
+      "2"
+    ],
+    [
+      "1",
+      "2",
+      "3",
+      "1",
+      "2"
+    ],
+    [
+      "1"
+    ],
+    [
+      "2"
+    ],
+    [
+      "9"
+    ],
+    [
+      "8"
+    ],
+    [
+      "7"
+    ],
+    [
+      "5"
+    ],
+    [
+      "4"
+    ],
+    [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    [
+      "2",
+      "3",
+      "4",
+      "5",
+      "8"
+    ]
+  ],
+  "examples": [
+    {
+      "string": "123",
+      "match": [
+        {
+          "start": 0,
+          "end": 3
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "2436263489",
+      "match": [
+        {
+          "start": 0,
+          "end": 10
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "12312",
+      "match": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "12312",
+      "match": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "12312",
+      "match": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "1",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "2",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "9",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "8",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "7",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "5",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "4",
+      "match": [
+        {
+          "start": 0,
+          "end": 1
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "23456",
+      "match": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "2345",
+      "match": [
+        {
+          "start": 0,
+          "end": 4
+        }
+      ],
+      "unmatch": []
+    },
+    {
+      "string": "23458",
+      "match": [
+        {
+          "start": 0,
+          "end": 5
+        }
+      ],
+      "unmatch": []
+    }
+  ],
+  "bestExtractionsStats": [
+    {
+      "fp": 3,
+      "tp": 0
+    },
+    {
+      "fp": 10,
+      "tp": 0
+    },
+    {
+      "fp": 5,
+      "tp": 0
+    },
+    {
+      "fp": 5,
+      "tp": 0
+    },
+    {
+      "fp": 5,
+      "tp": 0
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 0,
+      "tp": 1
+    },
+    {
+      "fp": 5,
+      "tp": 0
+    },
+    {
+      "fp": 4,
+      "tp": 0
+    },
+    {
+      "fp": 5,
+      "tp": 0
+    }
+  ],
+  "overallExecutionTimeMillis": 1198286,
+  "numberMatches": 15,
+  "numberUnmatches": 0,
+  "numberMatchedChars": 49,
+  "numberUnmatchedChars": 0,
+  "numberAnnotatedChars": 49,
+  "numberAllChars": 49,
+  "numberTrainingMatches": 8,
+  "numberTrainingUnmatches": 0,
+  "characterEvaluations": 512000000
+}
