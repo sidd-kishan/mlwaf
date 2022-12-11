@@ -5,7 +5,7 @@ foreach (new DirectoryIterator('logs') as $file) {
     if ($file->getExtension() === 'json'&&str_contains($file->getFilename(),"logs")) {
         $array = json_decode(file_get_contents($file->getPathname()), true);
 		foreach($array as $k=>$v){
-			$glob_arr[$k][]=['string'=>$v,'match'=>['start'=>0,'end'=>strlen($v)]];
+			$glob_arr[$k][]=['string'=>$v,'match'=>array(0=>['start'=>0,'end'=>strlen($v)])];
 		}
     }
 }
