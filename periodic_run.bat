@@ -1,0 +1,1 @@
+for /f %%f in ('dir /b logs*json') do java -jar ConsoleRegexTurtle.jar -t 4 -p 500 -g 1000 -e 20.0 -c "interesting evolution" -x true -d %%f -o ./
