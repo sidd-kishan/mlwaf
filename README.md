@@ -1,5 +1,16 @@
 # Machine Learning Based Web Application Firelwall
 
+#### The project is a POC to demonstrate an automatic regex based protection being incroporated in a base application here called "app.php". 
+#### The application has 2 deployment:-
+#### 1) test deployment 
+#### 2) production deployment
+#### A sample Test Environment code is shown in "app_l.php" upon interaction, it starts recording all the GET parmeters.
+#### A condensed summary of interation is created in the base location which starts with logs*
+#### Once periodic_run.bat runs the resultant regex is created in files like results*
+#### The protect.php file reads all the results* file and created a mapping of GET parameters and their respective filters.
+#### The regex is used as a extraction filter in the current implementation. eg filter: \d+ input: sfj234asjkdhk324 output: 234324 
+
+
 ## Can protect against all injection attacks
 ### XSS
 ### SQLi
