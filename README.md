@@ -1,4 +1,4 @@
-# Machine Learning Based Web Application Firelwall
+# Machine Learning Based Web Application Firewall
 
 #### The project is a POC to demonstrate an automatic regex based protection being incroporated in a base application here called "app.php". 
 #### The application has 2 deployment:-
